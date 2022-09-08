@@ -6,7 +6,8 @@ This is a directory of all my projects on Github categorised by language.
 2. [Python Projects](#python-projects)
 
 
-## Front End Projects (JavaScript & React)
+## Front End Projects
+Main technologies used: JavaScript, TypeScript, React
 1. [ACNH Villagers](https://github.com/aprilyeah/ACNH-Villagers) 
   * Development Technologies
     * React
