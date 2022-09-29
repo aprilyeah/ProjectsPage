@@ -21,7 +21,7 @@ Main technologies used: JavaScript, TypeScript, React
     * Python
     * Jupyter Notebook
 
-2. [is it a dog? 🐶](https://github.com/aprilyeah/Outbreak-Simulator) 
+2. [is it a dog? 🐶](https://github.com/aprilyeah/is-it-a-dog) 
   * Development Technologies
     * Python
     * Jupyter Notebook
