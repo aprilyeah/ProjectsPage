@@ -16,4 +16,12 @@ Main technologies used: JavaScript, TypeScript, React
     * Material UI
 
 ## Python Projects
-* Coming soon 👀
+1. [Outbreak Simulator 🦠](https://github.com/aprilyeah/Outbreak-Simulator) 
+  * Development Technologies
+    * Python
+    * Jupyter Notebook
+
+2. [is it a dog? 🐶](https://github.com/aprilyeah/Outbreak-Simulator) 
+  * Development Technologies
+    * Python
+    * Jupyter Notebook
